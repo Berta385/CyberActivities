@@ -45,9 +45,9 @@ Before learning how to attack systems, I need to understand how they work.
 
 * [x] Cisco Networking Basics
 * [x] Cisco Introduction to Cybersecurity
-* [ ] Networking fundamentals
-* [ ] TCP/IP
-* [ ] OSI Model
+* [x] Networking fundamentals
+* [x] TCP/IP
+* [x] OSI Model
 * [ ] Common network protocols
 * [ ] Ports and services
 * [ ] IP addressing and subnetting
